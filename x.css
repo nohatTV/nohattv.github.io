@@ -2,7 +2,7 @@
 	margin: 0;
 	padding: 0;
 	-webkit-font-smoothing: antialiased;
-	cursor: url(https://treiton.xyz/site/source/cursor.cur), auto !important;
+	cursor: url(https://github.com/nohatTV/nohattv.github.io/blob/main/cursor.cur?raw=true), auto !important;
 }
 
 html,
@@ -27,7 +27,7 @@ body {
   font: 12px "Monaco", Inconsolata, monospace;
   background: #090909;
   color: #f8f8f8;
-	cursor: url(https://treiton.xyz/site/source/cursor.cur), auto !important;
+	cursor: url(https://github.com/nohatTV/nohattv.github.io/blob/main/cursor.cur?raw=true), auto !important;
 }
 
 .terminal {

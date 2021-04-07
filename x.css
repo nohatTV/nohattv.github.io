@@ -1,0 +1,51 @@
+* {
+	margin: 0;
+	padding: 0;
+	-webkit-font-smoothing: antialiased;
+	cursor: url(https://treiton.xyz/site/source/cursor.cur), auto !important;
+}
+
+html,
+body {
+	height: 100%;
+	margin: 0;
+	width: 100%;
+	cursor: url(cursor.cur), auto !important;
+}
+
+#site {
+	text-align: center;
+	font-size: 16px;
+ 	position: absolute;
+ 	left: 50%;
+ 	top: 55%;
+ 	transform: translate(-50%, -50%);
+	color: #f8f8f8;
+}
+
+body {
+  font: 12px "Monaco", Inconsolata, monospace;
+  background: #090909;
+  color: #f8f8f8;
+	cursor: url(https://treiton.xyz/site/source/cursor.cur), auto !important;
+}
+
+.terminal {
+  background: transparent;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-top: -50px;
+  margin-left: -125px;
+  text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.4);
+  width: 250px;
+  font: inherit;
+  border: none;
+  outline: none;
+  color: inherit;
+}
+
+.dollar:before {
+  content: '$';
+  color: #52a563;
+}

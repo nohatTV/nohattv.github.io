@@ -49,6 +49,7 @@ body {
   content: '$';
   color: #52a563;
 }
+
 .row {
   display: flex;
 }
